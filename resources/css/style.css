@@ -37,6 +37,18 @@ header nav {
   padding-right: 40px;
 }
 
+nav {
+
+  justify-content: flex-end;
+  padding: 10px 20px;
+}
+
+nav span {
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+
 a {
   color: black;
 }
